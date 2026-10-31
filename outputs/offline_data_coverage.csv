@@ -1,0 +1,9 @@
+dataset,rows
+transactions_sample,75000
+products,92331
+demographics,801
+campaigns,6589
+campaign_descriptions,27
+coupons,116204
+coupon_redemptions,2102
+promotions_sample,360535

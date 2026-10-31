@@ -1,0 +1,49 @@
+# R session and history files
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+
+# RStudio project state
+.Rproj.user/
+*.Rproj
+
+# Temporary and lock files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Package build artefacts
+*.tar.gz
+*.tgz
+*.zip
+*.Rcheck/
+..Rcheck/
+Rcheck/
+
+# R Markdown and knitr artefacts
+*.utf8.md
+*.knit.md
+*_cache/
+*_files/
+figure/
+figures/*_files/
+
+# Environment and dependency directories
+renv/library/
+renv/staging/
+packrat/lib*/
+packrat/src/
+
+# Credentials and local configuration
+.env
+.httr-oauth
+.Renviron
+
+# Logs
+*.log

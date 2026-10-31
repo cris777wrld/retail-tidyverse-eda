@@ -1,0 +1,6 @@
+check,value
+Transaction rows,75000
+Rows with matched product,74778
+Rows with missing product department,222
+Baskets with matched household income,25877
+Distinct baskets,47243
